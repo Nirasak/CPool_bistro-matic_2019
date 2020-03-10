@@ -25,6 +25,5 @@ but not float numbers.
 99.4% lines  
 
 ### Bonus
-Graphical calculator in CSFML
-Fibonacci bonus
-Float bonus
+Graphical calculator in CSFML  
+Float bonus  
