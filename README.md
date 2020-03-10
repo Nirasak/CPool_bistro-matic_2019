@@ -13,7 +13,7 @@ but not float numbers.
 #### DESCRIPTION
 | params    | description                                         |
 | --------- |:---------------------------------------------------:|
-| base      | all the symbols od the base                         |
+| base      | all the symbols of the base                         |
 | operators | the symbols for the parentheses and the 5 operators |
 | size_read | number of characters to be read                     |
 
